@@ -1,6 +1,5 @@
-# Project 2 - Ames Housing Data and Kaggle Challenge
+# Ames Housing Data and Kaggle Challenge
 ### by Joomart Achekeev
-#### DSIR1011
 
 ## Introduction
 
